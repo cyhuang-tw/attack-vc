@@ -8,7 +8,7 @@ For the audio samples, please refer to our [demo page](https://yistlin.github.io
 
 ## Pre-trained Model
 
-The pre-trained [AdaIN-VC](https://arxiv.org/abs/1904.05742) (referred to as Chou's model in the paper) is available [here](https://drive.google.com/file/d/1vBF-4s5u0sro3nwDFWL7VnAV6KViCMp0/view?usp=sharing).
+The pre-trained [AdaIN-VC](https://arxiv.org/abs/1904.05742) (referred to as Chou's model in the paper) is available [here](https://drive.google.com/drive/folders/1vGU7DdfuebG1y8f4s4MOqEMunzsxxAHX?usp=drive_link).
 The files are from the official implementation of AdaIN-VC, but the config file was slightly modified.
 
 ## Attack
